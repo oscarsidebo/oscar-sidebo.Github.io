@@ -1,0 +1,227 @@
+body {
+	font-family: "Cooper Black";
+
+}
+
+div {
+    display: block;
+}
+
+.header {
+    height: 250px;
+    width: 100%;
+    margin: 0px;
+}
+
+.header2 {
+	position: relative;
+	top: 0;
+	height: 125px;
+	margin: 0px;
+	width: 100%;
+}
+
+.new_search {
+	position: relative;
+	top:50%;
+}
+
+.footer {
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer2 {
+	position: relative;
+	bottom: 0;
+	height: 200px;
+	width: 100%;
+}
+
+.middle {
+	position: relative;
+	height: 60%;
+}
+
+.search-block {
+	position: absolute;
+	left: 30%;
+	right: 30%;
+}
+
+.minmax {
+	float: left;
+	font-size: 30;
+}
+
+.inputs {
+	float: right;
+
+}
+
+.left_box {
+	position: absolute;
+	left: 0%;
+	height: 100%;
+	width: 33%;
+}
+
+.middle_box {
+	position: absolute;
+	margin: 0px;
+	background-color: black;
+	left: 33%;
+	height: 100%;
+	width: 30%;
+}
+
+.player {
+	position: relative;
+}
+
+.right_box {
+	position: absolute;
+	height: 100%;
+	left: 65%;
+	width: 30%;
+	font-style: 25;
+}
+
+.artist_box {
+	height: 100%;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 1200%;
+	font-size: 45;
+}
+
+.streams {
+	position: relative;
+	height: 100%;
+	top: 25%;
+	text-align: center;	
+	font-size: 25;
+}
+
+.
+
+.image {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+
+#top_image {
+	width: 100%;
+}
+
+.info {
+	position: absolute;
+	top: 15px;	
+	font-size: 20;
+	left: 0%;
+	width: 66%;
+
+}
+
+.genres_box {
+	position: absolute;
+	left: 0%;
+	width: 20%;
+}
+
+.labels_box {
+	position: absolute;
+	left: 20%;
+	width: 20%;
+}
+
+.pr_box {
+	position: absolute;
+	left: 40%;
+	width: 20%;	
+}
+
+.agents_box {
+	position: absolute;
+	left: 60%;
+	width: 20%;	
+}
+
+.management_box {
+	position: absolute;
+	left: 80%;
+}
+
+.navigation {
+	position: absolute;
+	left: 65%;
+	width: 30%;
+
+}
+
+.row1 {
+	position: absolute;
+	top: 0%;
+}
+
+.row2 {
+	position: absolute;
+	top: 60px;
+}
+
+.bottom_image {
+	position: fixed;
+	bottom: 0;
+	left: 69%;
+
+}
+
+.nav_buttons {
+	float: right;
+
+}
+
+input[type=text] {
+	width: 250px;
+	font-size: 15;
+	font-family: "Cooper Black";
+	border: 1px solid black;
+	border-radius: 20px;
+	box-shadow: 2px 6px #1A1A1A;
+	height: 35px !important;
+}
+
+input[type=submit] {
+	background: #82968C;
+	font-family: "Cooper Black";
+	font-size: 20;
+	float: right;
+	height: 40px;
+	width: 100px;
+	border-radius: 20px;
+	box-shadow: 2px 6px #1A1A1A;
+	border: none;
+	margin:20px;
+}
+
+button {
+	background: #86DEB7;
+	font-family: "Cooper Black";
+	font-size: 25;
+	height: 40px;
+	width: 200px;
+	border-radius: 20px;
+	box-shadow: 2px 6px #1A1A1A;
+	border: none;
+	margin: 5px;
+}
+
+h2 {
+	font-size: 45;
+}
+
